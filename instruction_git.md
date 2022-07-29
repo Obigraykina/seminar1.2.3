@@ -118,7 +118,9 @@ P.S. Поднять вверх TERMINAL для удобства (не очища
 
 ## Удалене веток
 
-dvkjfgh;oisedjglfdk
-dkghdkgjl
-hdzfjglkjvlk
-dhgkjglkd
+удаления ветки пользуемся:
+
+    git branch -d
+-d от delite
+
+Опять проверрочка при помощи git branch, ветка должна исчезнуть.
