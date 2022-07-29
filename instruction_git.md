@@ -113,6 +113,8 @@ dkghoeiurgpdkl
 dlgjoleiutdrpgfj
 djgledugpodl
 
+sthdlfgk;lkfg
+
 
 Команды для слияния
 
