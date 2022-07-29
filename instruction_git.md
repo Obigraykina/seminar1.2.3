@@ -109,6 +109,10 @@ P.S. Поднять вверх TERMINAL для удобства (не очища
 втдлповудл
 счлаопдвлаопд
 
+dkghoeiurgpdkl
+dlgjoleiutdrpgfj
+djgledugpodl
+
 
 Команды для слияния
 
